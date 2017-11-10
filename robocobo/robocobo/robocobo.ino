@@ -32,6 +32,8 @@ void setup() {
 // the loop function runs over and over again until power down or reset
 void loop() {
  //hello world #comment style 
+ //hello visual studio on mac
+ //hello commit with terminal
 }
 
 
